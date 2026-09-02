@@ -2,7 +2,7 @@ export const person = {
   name: "Nirajan Banjade",
   ticker: "NRJN",
   logo: "NRJN",
-  kicker: "Market Order - Scaleable AI Systems",
+  kicker: "Market Order - Scalable AI Systems",
   headline: ["Long on", "Nirajan", "Banjade"],
   blurb:
     "Software Engineer & CS Student - Engineering Agentic Systems, LLM Evaluation Pipelines, and Distributed Infrastructure at Oak Ridge National Laboratory. ",
