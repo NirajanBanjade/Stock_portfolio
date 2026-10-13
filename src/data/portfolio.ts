@@ -153,6 +153,22 @@ export const positions = [
 
 export const holdings = [
   {
+    symbol: "REPODOC",
+    name: "RepoDoc",
+    sub: "Repository Analysis & Developer Onboarding",
+    yield: "+15.6%",
+    summary:
+      "Built for software engineers who need to understand unfamiliar codebases through automated architecture discovery, dependency visualization, and guided developer onboarding.",
+    bullets: [
+      "XRay feature: performs language-specific analysis across programming languages, extracting code relationships and constructing dependency graphs to reveal software architecture.",
+      "ImpactScope feature: analyzes code changes to identify affected components and highlight areas that require additional testing.",
+      "An agentic AI workflow uses ImpactScope feature findings to generate targeted unit and integration tests for impacted components.",
+    ],
+    stack: ["Python", "TypeScript", "FastAPI", "Git", "Static Code Analysis"],
+    href: "https://github.com/NirajanBanjade/Repo_doc",
+    note: "Repository Link  -  Coming Soon",
+  },
+  {
     symbol: "BLKSHLD",
     name: "BlockShield",
     sub: "Serverless API Security Gateway",
