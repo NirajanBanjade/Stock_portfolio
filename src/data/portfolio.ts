@@ -12,7 +12,7 @@ export const person = {
   linkedin: "https://www.linkedin.com/",
   github: "https://github.com/NirajanBanjade",
   resume:
-    "https://drive.google.com/file/d/1f7LQbNkm33xbAWifuK7oipPlS02I-grd/view?usp=sharing",
+    "https://drive.google.com/file/d/1VZyWsONdr2jm_CniTzlSSWlpSiO_TH5A/view?usp=sharing",
   portrait: "https://lh3.googleusercontent.com/d/1j2Aj-AKelj4gQKHBC66Q8CXtm67KIcG2",
 };
 
